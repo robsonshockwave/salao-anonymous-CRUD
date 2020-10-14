@@ -18,12 +18,12 @@ Sistema criado apenas para a implementação e automatização de 4 CRUDes para 
 
 O projeto contém o arquivo .txt com os códigos utilizados para a automatização, os de Serviço e Fornecedor foi utilizado o Selenium IDE e os de Cliente e Produto o iMacros.
 
-- [Selenium IDE] (https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
-- [iMacros] (https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp)
+- [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)
+- [iMacros](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp)
 
 ## ⌨ Como executar o projeto
 
-Necessita de ter o Docker (https://www.docker.com/) instalado. Pode baixá-lo no próprio site.
+Necessita de ter o Docker(https://www.docker.com/) instalado. Pode baixá-lo no próprio site.
 
 ```bash
 # Clonar o repositório
